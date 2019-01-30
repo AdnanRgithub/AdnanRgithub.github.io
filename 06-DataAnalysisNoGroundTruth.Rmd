@@ -1,5 +1,5 @@
 ---
-title: 'Blog: How can we do data analysis when there''s no "ground truth"?'
+title: 'Blog: How can we do data analysis when there's no "ground truth"?'
 output: html_document
 ---
 
